@@ -52,5 +52,5 @@ h1 {
   }
 
   .animate__animated.animated__fadeIn.corazon{
-      -o-animation-duration: 6s;
+      --animation-duration: 6s;
   }
